@@ -2,6 +2,6 @@
 
 - Basic: CSS using Flexbox
 
-# Netfix - Home
+# Netflix - Home
 
 - HTML/CSS using Flexbox
